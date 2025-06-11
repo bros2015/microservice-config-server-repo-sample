@@ -16,7 +16,7 @@ git config --global user.name "physophearak"
 git commit -m "microservice-config-server-repo"
 
 gh repo create microservice-config-server-repo-sample --public
-git remote add origin https://github.com/physophearak/microservice-config-server-repo-sample
+git remote add origin https://github.com/bros2015//microservice-config-server-repo-sample
 git push -u origin master
 
 git remote show origin
